@@ -1,0 +1,14 @@
+[package]
+name = "aptos_shaker"
+version = "1.0.0"
+authors = []
+
+[addresses]
+admin = "your_adress"
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "testnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]
