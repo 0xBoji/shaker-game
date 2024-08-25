@@ -1,4 +1,4 @@
-# Aptos Shaker
+# Aptos Shaker Randomness
 
 Aptos Shaker is a blockchain-based dice game implemented on the Aptos blockchain. It offers an exciting gambling experience with features like referrals, jackpots, and dynamic multipliers.
 
